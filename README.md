@@ -28,7 +28,7 @@
 
 ![Sai's GitHub Stats](https://streak-stats.demolab.com?user=PallySaiDeekshith&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PallySaiDeekshith&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PallySaiDeekshith&theme=tokyonight)
 
 ---
 
