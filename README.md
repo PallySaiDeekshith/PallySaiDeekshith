@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallySaiDeekshith&show_icons=true&theme=tokyonight)
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PallySaiDeekshith&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PallySaiDeekshith&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PallySaiDeekshith&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
